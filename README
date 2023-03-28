@@ -1,0 +1,3 @@
+# Commnad to run the program
+
+./readData.out config/allocation_config_ty.csv filledOrders.csv config/symbol_config.csv expand ty 1 output
