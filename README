@@ -1,5 +1,5 @@
-# Commnad to run the program
+
 A post-trade allocation is an action completed after a trade has been executed whereby the user allocates the currency traded into one or more accounts.
 
-To run the code use the following command
+# Commnad to run the program
 ./readData.out config/allocation_config_ty.csv filledOrders.csv config/symbol_config.csv expand ty 1 output
